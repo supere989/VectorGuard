@@ -6,12 +6,12 @@ VectorGuard™ is a revolutionary secure communication protocol designed specifi
 
 ## Overview
 
-VectorGuard™ implements a groundbreaking AI-native encryption protocol powered by VectorStream™ encryption mechanisms and VectorFlow™ key generation primitives. This revolutionary system enables secure, authenticated communication between AI systems while incorporating advanced security measures including protection against token-based attacks, prompt injection attempts, and other emerging AI security threats.
+VectorGuard™ implements a groundbreaking AI-native encryption protocol that enables secure, authenticated communication between AI systems. This revolutionary system incorporates advanced security measures including protection against token-based attacks, prompt injection attempts, and other emerging AI security threats.
 
 ## Key Features
 
-- **VectorStream™ Encryption** - Advanced encryption mechanisms for secure AI-to-AI communication
-- **VectorFlow™ Key Generation** - Revolutionary key primitive generation system optimized for AI environments
+- **AI-to-AI Encryption** - Advanced encryption mechanisms for secure communication between AI systems
+- **Revolutionary Key Generation** - Innovative key primitive generation system optimized for AI environments
 - **Native AI Integration** - Seamless integration with existing AI model architectures
 - **Real-time Threat Detection** - Advanced pattern recognition and anomaly detection
 - **Comprehensive Security** - Multi-layered defense against various attack vectors
@@ -37,7 +37,7 @@ This project is currently in active development. Documentation and implementatio
 
 Copyright © 2025 Active-iQ AID-CORE Security Research Division
 
-VectorGuard™, VectorStream™, and VectorFlow™ are trademarks of Active-iQ.
+VectorGuard™ is a trademark of Active-iQ.
 
 ---
 
